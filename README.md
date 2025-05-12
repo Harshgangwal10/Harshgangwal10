@@ -1,4 +1,4 @@
-### 👋 Hi there, I'm Harsh!
+### 👋 Hi , I'm Harsh!
 🚀 Web Developer | Full-Stack (MERN) 
 <br>
 
