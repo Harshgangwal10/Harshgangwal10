@@ -1,6 +1,6 @@
 ## 👋 Hi there, I'm Harsh! 🚀
 
-**Web Developer | Full-Stack (MERN)**  
+**Full-Stack Developer (MERN)**  
 Passionate about building scalable web apps and exploring modern JavaScript frameworks.
 
 ---
